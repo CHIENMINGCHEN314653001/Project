@@ -75,4 +75,4 @@ ggplot(ttyear, aes(x = factor(month), y = factor(year), fill = count)) +
 
 ## 完整報告
 
-詳細分析內容與圖表成果請見 [`Travel Plan.pdf`](./Travel%20Plan.pdf)。
+詳細分析內容與圖表成果請見 [`Travel Plan.pdf`](https://github.com/CHIENMINGCHEN314653001/Project/blob/main/%E5%9C%8B%E4%BA%BA%E5%87%BA%E5%9C%8B%E6%97%85%E9%81%8A%E4%BA%BA%E5%8F%A3%E7%B5%B1%E8%A8%88_2/Travel%20Plan.pdf)。
