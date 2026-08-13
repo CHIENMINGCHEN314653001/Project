@@ -73,4 +73,4 @@ ggplot(data, aes(x = AgeGroup, y = Population, fill = Gender)) +
 
 ## 完整報告
 
-詳細分析內容與圖表成果請見 [`數學軟體期末專案.pdf`](./數學軟體期末專案.pdf)。
+詳細分析內容與圖表成果請見 [`數學軟體期末專案.pdf`](https://github.com/CHIENMINGCHEN314653001/Project/blob/main/%E5%9C%8B%E4%BA%BA%E5%87%BA%E5%9C%8B%E6%97%85%E9%81%8A%E4%BA%BA%E5%8F%A3%E7%B5%B1%E8%A8%88/%E6%95%B8%E5%AD%B8%E8%BB%9F%E9%AB%94%E6%9C%9F%E6%9C%AB%E5%B0%88%E6%A1%88.pdf)。
